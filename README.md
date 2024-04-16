@@ -1,5 +1,5 @@
 ## Olá, me chamo Lucas 👋🏻
-Sou uma pessoa proativa e amo resolver problemas.
+Sou uma pessoa proativa e gosto muito de aprender resolvendo problemas.
 
 - 👨🏻‍💻 Desenvolvedor **FullStack**
 - 🌟 Entusiasta de Tecnologia
