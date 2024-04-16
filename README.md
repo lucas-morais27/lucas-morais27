@@ -1,7 +1,7 @@
 ## Olá, me chamo Lucas 👋🏻
 Sou uma pessoa proativa e gosto muito de aprender resolvendo problemas.
 
-- 👨🏻‍💻 Desenvolvedor **FullStack**
+- 👨🏻‍💻 Desenvolvedor **FullStack** Junior
 - 🌟 Entusiasta de Tecnologia
 - 📚 Técnico de **Informática** pelo IFRN
 - 🎓 Graduando em Tecnologia da Informação pelo [Instituto Metrópole Digital](https://www.metropoledigital.ufrn.br)
