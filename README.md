@@ -1,7 +1,7 @@
-## Olá, me chamo Lucas 👋🏻
+# Olá, me chamo Lucas 👋🏻
 Sou uma pessoa proativa e gosto muito de aprender resolvendo problemas.
 
-- 👨🏻‍💻 Desenvolvedor **FullStack** Junior
+- 👨🏻‍💻 Desenvolvedor **BackEnd**
 - 🌟 Entusiasta de Tecnologia
 - 📚 Técnico de **Informática** pelo IFRN
 - 🎓 Graduando em Tecnologia da Informação pelo [Instituto Metrópole Digital](https://www.metropoledigital.ufrn.br)
@@ -11,7 +11,6 @@ Sou uma pessoa proativa e gosto muito de aprender resolvendo problemas.
     <img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
     <img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
     <img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
     <img width='70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
 ##
